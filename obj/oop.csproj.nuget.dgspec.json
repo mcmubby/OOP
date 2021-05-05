@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Zegards\\Desktop\\C#Class\\oop\\oop.csproj": {}
+    "C:\\Users\\Zegards\\Desktop\\C#Class\\OOP\\oop.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Zegards\\Desktop\\C#Class\\oop\\oop.csproj": {
+    "C:\\Users\\Zegards\\Desktop\\C#Class\\OOP\\oop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Zegards\\Desktop\\C#Class\\oop\\oop.csproj",
+        "projectUniqueName": "C:\\Users\\Zegards\\Desktop\\C#Class\\OOP\\oop.csproj",
         "projectName": "oop",
-        "projectPath": "C:\\Users\\Zegards\\Desktop\\C#Class\\oop\\oop.csproj",
+        "projectPath": "C:\\Users\\Zegards\\Desktop\\C#Class\\OOP\\oop.csproj",
         "packagesPath": "C:\\Users\\Zegards\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Zegards\\Desktop\\C#Class\\oop\\obj\\",
+        "outputPath": "C:\\Users\\Zegards\\Desktop\\C#Class\\OOP\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
