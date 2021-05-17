@@ -16,28 +16,34 @@ namespace OOP
             // CTE.lastName = "John";
             // CTE.printFullName();
 
-            ParentClass parent = new ParentClass();
-            parent.printSomething();
-            ChildClass child = new ChildClass();
-            child.saySomething();
-            child.printSomething();
+            // ParentClass parent = new ParentClass();
+            // parent.printSomething();
+            // ChildClass child = new ChildClass();
+            // child.saySomething();
+            // child.printSomething();
+
+            Rectangle square = new Square();
+
+            square.ShapeMethod();
+            square.RectangleMethod();
+            
 
         }
     }
 
-    public class ParentClass
-    {
-        public void printSomething()
-        {
-            System.Console.WriteLine("This is the parent class");
-        }
-    }
+    // public class ParentClass
+    // {
+    //     public void printSomething()
+    //     {
+    //         System.Console.WriteLine("This is the parent class");
+    //     }
+    // }
 
-    public class ChildClass : ParentClass
-    {
-        public void saySomething()
-        {
-            System.Console.WriteLine("This is the child class");
-        }
-    }
+    // public class ChildClass : ParentClass
+    // {
+    //     public void saySomething()
+    //     {
+    //         System.Console.WriteLine("This is the child class");
+    //     }
+    // }
 }
